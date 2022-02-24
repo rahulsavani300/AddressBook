@@ -16,7 +16,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-4">
-                        Country  
+                        Count  
                     </div>
                     <div class="col-md-8">
                         <asp:DropDownList ID="ddlCountryID" runat="server" AutoPostBack="true" OnSelectedIndexChanged="ddlCountryID_SelectedIndexChanged" CssClass="form-control"></asp:DropDownList>
